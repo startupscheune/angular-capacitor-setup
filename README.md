@@ -23,12 +23,13 @@ Setup für ein Standard-Projekt mit Angular 15 und Capacitor
       1. `npx cap add android` erstellt Android Projekt -> Mehr dazu: https://capacitorjs.com/docs/basics/workflow
       2. `npx cap add ios` erstellt ios Projekt
 
+4. Android Studio und Xcode herunterladen
+- Android: https://developer.android.com/studio
+- Xcode (nur unter macOS): https://capacitorjs.com/docs/getting-started/environment-setup#ios-requirements
 
-4. Beispiele for capacitor API
+5. Beispiele für capacitor API
    1. Geolocation: https://capacitorjs.com/docs/apis/geolocation
       1. `npm install @capacitor/geolocation`
       2. `npx cap sync`
 
-5. Android Studio und Xcode herunterladen
-- Android: https://developer.android.com/studio
-- Xcode (nur unter macOS): https://capacitorjs.com/docs/getting-started/environment-setup#ios-requirements
+## Alles weitere behandeln wir im Workshop
