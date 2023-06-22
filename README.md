@@ -37,3 +37,5 @@ Setup für ein Standard-Projekt mit Angular 15 und Capacitor
 ## Setup codespaces
 
 Downgrade to npm LTS `nvm install 18.12.1`
+
+Testumgebung `ng serve --host=0.0.0.0 --disable-host-check`
